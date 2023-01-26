@@ -43,32 +43,32 @@
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/QGfDU7pK5ys">React Native WhatsApp Clone (with Firebase + Clean Architecture) Part 1</a>
+<a href="https://youtu.be/QGfDU7pK5ys">Flutter WhatsApp Clone (with Firebase + Clean Architecture) Part 1</a>
 <br/>
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/t4BSFMbn1ic">React Native WhatsApp Clone (with Firebase + Clean Architecture) Part 2 </a>
+<a href="https://youtu.be/t4BSFMbn1ic">Flutter WhatsApp Clone (with Firebase + Clean Architecture) Part 2 </a>
 <br/>
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/tPvW5dsPLvE">React Native WhatsApp Clone (with Firebase + Clean Architecture) Part 3</a>
+<a href="https://youtu.be/tPvW5dsPLvE">Flutter WhatsApp Clone (with Firebase + Clean Architecture) Part 3</a>
 <br/>
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/SimkRpjG2Mc">React Native WhatsApp Clone (with Firebase + Clean Architecture) Part 4</a>
+<a href="https://youtu.be/SimkRpjG2Mc">Flutter WhatsApp Clone (with Firebase + Clean Architecture) Part 4</a>
 <br/>
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/O8y1Lco_LYM">React Native WhatsApp Clone (with Firebase + Clean Architecture) Part 5</a>
+<a href="https://youtu.be/O8y1Lco_LYM">Flutter WhatsApp Clone (with Firebase + Clean Architecture) Part 5</a>
 <br/>
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="#">React Native WhatsApp Clone (with Firebase + Clean Architecture) Part 6 coming soong</a>
+<a href="#">Flutter WhatsApp Clone (with Firebase + Clean Architecture) Part 6 coming soong</a>
 </p>
 <br />
 
 ### Packages we are using:
 
-[responsive_builder :](https://pub.dev/packages/responsive_builder) The responsive builder package contains widgets that allows you to create a readable responsive UI. The package is inspired by the Responsive UI React Native series created by FilledStacks.
+[responsive_builder :](https://pub.dev/packages/responsive_builder) The responsive builder package contains widgets that allows you to create a readable responsive UI. The package is inspired by the Responsive UI Flutter series created by FilledStacks.
 
-[React Native_bloc :](https://pub.dev/packages/flutter_bloc) Widgets that make it easy to integrate blocs and cubits into [React Native](https://flutter.dev/). Built to work with [package:bloc](https://pub.dev/packages/bloc). The Bloc library provides very good 🦄 tooling and compared to other state management solutions that use Streams, it's a pure gem.
+[Flutter_bloc :](https://pub.dev/packages/flutter_bloc) Widgets that make it easy to integrate blocs and cubits into [Flutter](https://flutter.dev/). Built to work with [package:bloc](https://pub.dev/packages/bloc). The Bloc library provides very good 🦄 tooling and compared to other state management solutions that use Streams, it's a pure gem.
 
-[get_it :](https://pub.dev/packages/get_it) This is a simple **Service Locator** for Dart and React Native projects with some additional goodies highly inspired by [Splat](https://github.com/reactiveui/splat). It can be used instead of `InheritedWidget` or `Provider` to access objects e.g. from your UI.
+[get_it :](https://pub.dev/packages/get_it) This is a simple **Service Locator** for Dart and Flutter projects with some additional goodies highly inspired by [Splat](https://github.com/reactiveui/splat). It can be used instead of `InheritedWidget` or `Provider` to access objects e.g. from your UI.
 
 [equatable:](https://pub.dev/packages/equatable) Being able to compare objects in `Dart` often involves having to override the `==` operator as well as `hashCode`.
 
@@ -86,7 +86,7 @@ agora_rtc_engine:- [Link:](https://pub.dev/packages/agora_rtc_engine)
 
 contacts_service:- [Link:](https://pub.dev/packages/contacts_service)
 
-font_awesome_React Native:- [Link:](https://pub.dev/packages/font_awesome_flutter)
+font_awesome_Flutter:- [Link:](https://pub.dev/packages/font_awesome_flutter)
 
 [firebase :](https://firebase.google.com/) is the most amazing back-end as a service (BaaS) developed by Google for mobile and web application development that helps you build, improve, grow your app and deliver richer app experiences.
 
